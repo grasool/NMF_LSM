@@ -1,5 +1,5 @@
-# NMF_LSM
-Code for the NMF-LSM for automatic segmentation of MR Images
+# Automated Robust Image Segmentation: Level Set Method using Non-Negative Matrix Factorization With Application to Brain MRI
+
 
 This is the original code of the following paper:
 
